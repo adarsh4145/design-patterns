@@ -2,11 +2,14 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.github.adarsh4145</groupId>
-  <artifactId>systemdesign</artifactId>
+  <artifactId>system-design</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>system design Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  <properties>
+
+  </properties>
   <dependencies>
     <dependency>
       <groupId>org.projectlombok</groupId>
@@ -22,6 +25,15 @@
 
   </dependencies>
   <build>
-    <finalName>system-design-app</finalName>
+    <finalName>system-design-app</finalName><plugins>
+    <plugin>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <configuration>
+        <source>17</source>
+        <target>17</target>
+      </configuration>
+    </plugin>
+  </plugins>
   </build>
 </project>

@@ -1,8 +1,6 @@
-package io.github.adarsh4145.systemdesign;
+package io.github.adarsh4145.systemdesign.behavioural_I.memento.mysolution;
 
-import io.github.adarsh4145.systemdesign.behavioural_I.memento.mysolution.MyEditor;
-
-public class MainApp {
+public class MyMementoApp {
     public static void main(String[] args) {
 
         MyEditor editor = new MyEditor();
@@ -23,7 +21,6 @@ public class MainApp {
         System.out.println(editor.getContent());
         editor.setContent("4");
         System.out.println(editor.getContent());
-
     }
-    
+
 }

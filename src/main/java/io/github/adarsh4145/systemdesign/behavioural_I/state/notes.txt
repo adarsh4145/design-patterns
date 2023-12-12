@@ -1,0 +1,1 @@
+concrete diff between state and strategy ?
