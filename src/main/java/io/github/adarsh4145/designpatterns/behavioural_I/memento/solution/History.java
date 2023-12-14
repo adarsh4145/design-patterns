@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.memento.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.memento.solution;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package io.github.adarsh4145.systemdesign;
+package io.github.adarsh4145.designpatterns;
 
-import io.github.adarsh4145.systemdesign.behavioural_I.memento.mysolution.MyEditor;
+import io.github.adarsh4145.designpatterns.behavioural_I.memento.mysolution.MyEditor;
 
 public class MainApp {
     public static void main(String[] args) {

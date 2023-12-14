@@ -1,9 +1,9 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.template.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.template.solution;
 
 
-import io.github.adarsh4145.systemdesign.behavioural_I.template.solution.task.GenerateReportTask;
-import io.github.adarsh4145.systemdesign.behavioural_I.template.solution.task.Task;
-import io.github.adarsh4145.systemdesign.behavioural_I.template.solution.task.TransferMoneyTask;
+import io.github.adarsh4145.designpatterns.behavioural_I.template.solution.task.GenerateReportTask;
+import io.github.adarsh4145.designpatterns.behavioural_I.template.solution.task.Task;
+import io.github.adarsh4145.designpatterns.behavioural_I.template.solution.task.TransferMoneyTask;
 
 public class MainApp {
     public static void main(String[] args) {

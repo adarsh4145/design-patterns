@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.strategy;
+package io.github.adarsh4145.designpatterns.behavioural_I.strategy;
 
 public class ImageStore {
     private String compressor;

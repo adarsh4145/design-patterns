@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.strategy.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.strategy.solution;
 
 public class MainApp {
     public static void main(String[] args) {

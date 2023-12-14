@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.memento.mysolution;
+package io.github.adarsh4145.designpatterns.behavioural_I.memento.mysolution;
 
 public class MyMementoApp {
     public static void main(String[] args) {

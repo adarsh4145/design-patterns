@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.iterator.solution.sol2;
+package io.github.adarsh4145.designpatterns.behavioural_I.iterator.solution.sol2;
 
 import java.util.ArrayList;
 import java.util.List;

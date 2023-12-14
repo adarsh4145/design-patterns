@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.command.solution.undoablecommand.editor;
+package io.github.adarsh4145.designpatterns.behavioural_I.command.solution.undoablecommand.editor;
 
 public class UndoCommand implements Command{
     private History history;

@@ -1,6 +1,6 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.template.solution.task;
+package io.github.adarsh4145.designpatterns.behavioural_I.template.solution.task;
 
-import io.github.adarsh4145.systemdesign.behavioural_I.template.solution.AuditTrail;
+import io.github.adarsh4145.designpatterns.behavioural_I.template.solution.AuditTrail;
 
 public abstract class Task {
 

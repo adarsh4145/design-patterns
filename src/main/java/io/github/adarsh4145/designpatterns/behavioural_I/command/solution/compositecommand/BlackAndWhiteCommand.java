@@ -1,6 +1,6 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.command.solution.compositecommand;
+package io.github.adarsh4145.designpatterns.behavioural_I.command.solution.compositecommand;
 
-import io.github.adarsh4145.systemdesign.behavioural_I.command.solution.framework.Command;
+import io.github.adarsh4145.designpatterns.behavioural_I.command.solution.framework.Command;
 
 public class BlackAndWhiteCommand implements Command {
 

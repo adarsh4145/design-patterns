@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.state.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.state.solution;
 
 public class MainClass {
     public static void main(String[] args) {

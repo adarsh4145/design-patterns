@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.state.mysolution;
+package io.github.adarsh4145.designpatterns.behavioural_I.state.mysolution;
 
 public class SelectionTool extends Tool{
     ToolType toolType  = ToolType.SELECTION;

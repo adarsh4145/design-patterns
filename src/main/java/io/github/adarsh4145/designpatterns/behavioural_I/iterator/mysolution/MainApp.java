@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.iterator.mysolution;
+package io.github.adarsh4145.designpatterns.behavioural_I.iterator.mysolution;
 
 public class MainApp {
     public static void main(String[] args) throws Exception {

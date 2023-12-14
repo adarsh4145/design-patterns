@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.command.solution.compositecommand;
+package io.github.adarsh4145.designpatterns.behavioural_I.command.solution.compositecommand;
 
 public class MainAppCompositeCommands {
     public static void main(String[] args) {

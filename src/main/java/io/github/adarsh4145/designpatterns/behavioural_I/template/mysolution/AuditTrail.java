@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.template.mysolution;
+package io.github.adarsh4145.designpatterns.behavioural_I.template.mysolution;
 
 public class AuditTrail {
     public void record(){

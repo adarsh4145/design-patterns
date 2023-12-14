@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.iterator.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.iterator.solution;
 
 
 public class MainApp {

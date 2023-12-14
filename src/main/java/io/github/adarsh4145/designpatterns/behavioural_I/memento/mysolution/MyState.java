@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.memento.mysolution;
+package io.github.adarsh4145.designpatterns.behavioural_I.memento.mysolution;
 
 import java.util.Stack;
 

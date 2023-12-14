@@ -1,4 +1,4 @@
-package io.github.adarsh4145.systemdesign.behavioural_I.state.solution;
+package io.github.adarsh4145.designpatterns.behavioural_I.state.solution;
 
 import lombok.Getter;
 import lombok.Setter;
